@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Project\\ESS\\SportMart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SportMart||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D339A12-6BEF-43B3-8E15-CD6BBFD51C68}|SportMart\\SportMart.vbproj|I:\\Project\\ESS\\SportMart\\sportmart\\billing_dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3D339A12-6BEF-43B3-8E15-CD6BBFD51C68}|SportMart\\SportMart.vbproj|solutionrelative:sportmart\\billing_dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D339A12-6BEF-43B3-8E15-CD6BBFD51C68}|SportMart\\SportMart.vbproj|i:\\project\\ess\\sportmart\\sportmart\\billing_dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3D339A12-6BEF-43B3-8E15-CD6BBFD51C68}|SportMart\\SportMart.vbproj|solutionrelative:sportmart\\billing_dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D339A12-6BEF-43B3-8E15-CD6BBFD51C68}|SportMart\\SportMart.vbproj|I:\\Project\\ESS\\SportMart\\sportmart\\add_product.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3D339A12-6BEF-43B3-8E15-CD6BBFD51C68}|SportMart\\SportMart.vbproj|solutionrelative:sportmart\\add_product.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D339A12-6BEF-43B3-8E15-CD6BBFD51C68}|SportMart\\SportMart.vbproj|I:\\Project\\ESS\\SportMart\\sportmart\\add_product.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3D339A12-6BEF-43B3-8E15-CD6BBFD51C68}|SportMart\\SportMart.vbproj|solutionrelative:sportmart\\add_product.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D339A12-6BEF-43B3-8E15-CD6BBFD51C68}|SportMart\\SportMart.vbproj|I:\\Project\\ESS\\SportMart\\sportmart\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3D339A12-6BEF-43B3-8E15-CD6BBFD51C68}|SportMart\\SportMart.vbproj|solutionrelative:sportmart\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D339A12-6BEF-43B3-8E15-CD6BBFD51C68}|SportMart\\SportMart.vbproj|I:\\Project\\ESS\\SportMart\\sportmart\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3D339A12-6BEF-43B3-8E15-CD6BBFD51C68}|SportMart\\SportMart.vbproj|solutionrelative:sportmart\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D339A12-6BEF-43B3-8E15-CD6BBFD51C68}|SportMart\\SportMart.vbproj|i:\\project\\ess\\sportmart\\sportmart\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SportMart",
+              "DocumentMoniker": "I:\\Project\\ESS\\SportMart\\SportMart\\SportMart.vbproj",
+              "RelativeDocumentMoniker": "SportMart\\SportMart.vbproj",
+              "ToolTip": "I:\\Project\\ESS\\SportMart\\SportMart\\SportMart.vbproj",
+              "RelativeToolTip": "SportMart\\SportMart.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-19T21:28:49.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.vb",
+              "DocumentMoniker": "I:\\Project\\ESS\\SportMart\\SportMart\\Login.vb",
+              "RelativeDocumentMoniker": "SportMart\\Login.vb",
+              "ToolTip": "I:\\Project\\ESS\\SportMart\\SportMart\\Login.vb",
+              "RelativeToolTip": "SportMart\\Login.vb",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAF8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-19T16:04:44.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "I:\\Project\\ESS\\SportMart\\SportMart\\Login.vb",
+              "RelativeDocumentMoniker": "SportMart\\Login.vb",
+              "ToolTip": "I:\\Project\\ESS\\SportMart\\SportMart\\Login.vb [Design]",
+              "RelativeToolTip": "SportMart\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-19T16:04:42.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add_Product.vb",
+              "DocumentMoniker": "I:\\Project\\ESS\\SportMart\\SportMart\\Add_Product.vb",
+              "RelativeDocumentMoniker": "SportMart\\Add_Product.vb",
+              "ToolTip": "I:\\Project\\ESS\\SportMart\\SportMart\\Add_Product.vb",
+              "RelativeToolTip": "SportMart\\Add_Product.vb",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-19T15:52:23.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Billing_Dashboard.vb",
+              "DocumentMoniker": "I:\\Project\\ESS\\SportMart\\SportMart\\Billing_Dashboard.vb",
+              "RelativeDocumentMoniker": "SportMart\\Billing_Dashboard.vb",
+              "ToolTip": "I:\\Project\\ESS\\SportMart\\SportMart\\Billing_Dashboard.vb",
+              "RelativeToolTip": "SportMart\\Billing_Dashboard.vb",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-19T15:52:04.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add_Product.vb [Design]",
+              "DocumentMoniker": "I:\\Project\\ESS\\SportMart\\SportMart\\Add_Product.vb",
+              "RelativeDocumentMoniker": "SportMart\\Add_Product.vb",
+              "ToolTip": "I:\\Project\\ESS\\SportMart\\SportMart\\Add_Product.vb [Design]",
+              "RelativeToolTip": "SportMart\\Add_Product.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-19T15:51:57.006Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Billing_Dashboard.vb [Design]",
+              "DocumentMoniker": "I:\\Project\\ESS\\SportMart\\SportMart\\Billing_Dashboard.vb",
+              "RelativeDocumentMoniker": "SportMart\\Billing_Dashboard.vb",
+              "ToolTip": "I:\\Project\\ESS\\SportMart\\SportMart\\Billing_Dashboard.vb [Design]",
+              "RelativeToolTip": "SportMart\\Billing_Dashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-19T15:52:03.045Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
