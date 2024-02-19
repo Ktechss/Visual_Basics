@@ -1,0 +1,94 @@
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\bin\Debug\UserDB.mdf
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\bin\Debug\UserDB_log.ldf
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe.config
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.pdb
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.xml
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbprojAssemblyReference.cache
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Login.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Resources.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Register.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Welcome.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.GenerateResource.cache
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CoreCompileInputs.cache
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.exe
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.xml
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.pdb
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.UserProfile.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\bin\Debug\Guna.UI2.dll
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Inventory.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.SellStock.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Stocks.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.BuyStock.resources
+C:\Users\Satyam\source\repos\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CopyComplete
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbprojAssemblyReference.cache
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Inventory.resources
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Login.resources
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Resources.resources
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Register.resources
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.SellStock.resources
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Stocks.resources
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.BuyStock.resources
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.UserProfile.resources
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Welcome.resources
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.GenerateResource.cache
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CoreCompileInputs.cache
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.exe
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.xml
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.pdb
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\bin\Debug\UserDB.mdf
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\bin\Debug\UserDB_log.ldf
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe.config
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.pdb
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.xml
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\bin\Debug\Guna.UI2.dll
+C:\Users\knaik\OneDrive\Desktop\Stock_Trading_System\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CopyComplete
+F:\Stock Trading System\Stock Trading System\bin\Debug\UserDB.mdf
+F:\Stock Trading System\Stock Trading System\bin\Debug\UserDB_log.ldf
+F:\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe.config
+F:\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe
+F:\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.pdb
+F:\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.xml
+F:\Stock Trading System\Stock Trading System\bin\Debug\Guna.UI2.dll
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbprojAssemblyReference.cache
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Inventory.resources
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Login.resources
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Resources.resources
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Register.resources
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.SellStock.resources
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Stocks.resources
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.BuyStock.resources
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.UserProfile.resources
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Welcome.resources
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.GenerateResource.cache
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CoreCompileInputs.cache
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CopyComplete
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.exe
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.xml
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.pdb
+F:\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Form1.resources
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.AssemblyReference.cache
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.exe
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.xml
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.pdb
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\bin\Debug\UserDB.mdf
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\bin\Debug\UserDB_log.ldf
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe.config
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.exe
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.pdb
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\bin\Debug\Stock Trading System.xml
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\bin\Debug\Guna.UI2.dll
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Form1.resources
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Inventory.resources
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Login.resources
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Resources.resources
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Register.resources
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.SellStock.resources
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Stocks.resources
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.BuyStock.resources
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.UserProfile.resources
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock_Trading_System.Welcome.resources
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.GenerateResource.cache
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock Trading System.vbproj.CoreCompileInputs.cache
+C:\Users\knaik\Downloads\Stock Trading System edit\Stock Trading System\Stock Trading System\obj\Debug\Stock Tr.A29B4E12.Up2Date
