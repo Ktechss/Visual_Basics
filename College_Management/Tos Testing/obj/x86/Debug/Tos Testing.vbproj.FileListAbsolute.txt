@@ -1,0 +1,30 @@
+F:\Vstudio\Personal\Tos Testing\Tos Testing\bin\x86\Debug\Tos Testing.exe.config
+F:\Vstudio\Personal\Tos Testing\Tos Testing\bin\x86\Debug\Tos Testing.exe
+F:\Vstudio\Personal\Tos Testing\Tos Testing\bin\x86\Debug\Tos Testing.pdb
+F:\Vstudio\Personal\Tos Testing\Tos Testing\bin\x86\Debug\Tos Testing.xml
+F:\Vstudio\Personal\Tos Testing\Tos Testing\bin\x86\Debug\Guna.UI2.dll
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos Testing.vbprojAssemblyReference.cache
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.Academics.resources
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.Form1.resources
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.Form2.resources
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.Form3.resources
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.KjcToday.resources
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.MailBox.resources
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.Resources.resources
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.Online_meetings.resources
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos Testing.vbproj.GenerateResource.cache
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos Testing.vbproj.CoreCompileInputs.cache
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos Testing.vbproj.CopyComplete
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos Testing.exe
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos Testing.xml
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos Testing.pdb
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.Fees.resources
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.Attendance.resources
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.profileView.resources
+F:\Vstudio\Personal\Tos Testing\Tos Testing\bin\x86\Debug\kjcdatabase.mdf
+F:\Vstudio\Personal\Tos Testing\Tos Testing\bin\x86\Debug\kjcdatabase_log.ldf
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.admin_form.resources
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.change_password.resources
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.Enter_pass.resources
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.stud_en.resources
+F:\Vstudio\Personal\Tos Testing\Tos Testing\obj\x86\Debug\Tos_Testing.Teachers_form.resources
